@@ -1,0 +1,63 @@
+{
+  "name": "template-repo",
+  "title": "Template Repo",
+  "description": "Template Repo rules, but now its a Foundry Module",
+  "author": "HiveFrogStudio",
+  "version": "1.0.1",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "system": [
+    "pf2e"
+  ],
+  "minimumSystemVersion": "3.10",
+  "packs": [
+  {
+	  "label": "Template Repo Vehicles",
+	  "type": "Actor",
+	  "name": "vehicles",
+	  "path": "./packs/vehicles.db",
+	  "system": "pf2e",
+	  "package": "template-repo",
+	  "private": false
+  },
+  {
+	  "label": "Template Repo Feats",
+	  "type": "Item",
+	  "name": "feats",
+	  "path": "./packs/feats.db",
+	  "system": "pf2e",
+	  "package": "template-repo",
+	  "private": false
+  },
+  {
+	  "label": "Template Repo Items",
+	  "type": "Item",
+	  "name": "items",
+	  "path": "./packs/items.db",
+	  "system": "pf2e",
+	  "package": "template-repo",
+	  "private": false
+  },
+  {
+	  "label": "Template Repo Actions",
+	  "type": "Item",
+	  "name": "actions",
+	  "path": "./packs/actions.db",
+	  "system": "pf2e",
+	  "package": "template-repo",
+	  "private": false
+  },
+  {
+	  "label": "Template Repo Tables",
+	  "type": "JournalEntry",
+	  "name": "tables",
+	  "path": "./packs/tables.db",
+	  "system": "pf2e",
+	  "package": "template-repo",
+	  "private": false
+  }
+  ],
+  "url": "https://github.com/hivefrog-studio/template-repo-foundry-module",
+  "manifest": "https://raw.githubusercontent.com/hivefrog-studio/template-repo-foundry-module/master/module.json",
+  "download": "https://github.com/hivefrog-studio/template-repo-foundry-module/archive/refs/heads/master.zip"
+}
