@@ -1,4 +1,4 @@
-# Template Repo
+# The Counterspeller's Codex
 
 This module is an example for setting up a foundry module.  Each pack included here has a single item in it just to prove it works. 
 
