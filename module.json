@@ -65,7 +65,7 @@
 			"system": "pf2e"
 		}
 	],
-	"url": "https://github.com/hivefrog-studio/the-counterspeller-codex",
-	"manifest": "https://raw.githubusercontent.com/hivefrog-studio/the-counterspeller-codex/master/module.json",
-	"download": "https://github.com/hivefrog-studio/the-counterspeller-codex/archive/refs/heads/master.zip"
+	"url": "https://github.com/hivefrog-studio/the-counterspell-codex",
+	"manifest": "https://raw.githubusercontent.com/hivefrog-studio/the-counterspell-codex/master/module.json",
+	"download": "https://github.com/hivefrog-studio/the-counterspell-codex/archive/refs/heads/master.zip"
 }
