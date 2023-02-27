@@ -10,7 +10,7 @@
 			"url": "https://hivefrogstudio.com"
 		}
 	],
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"compatibility": {
 		"minimum": "9",
 		"verified": "10"
@@ -20,52 +20,52 @@
 			{
 				"id": "pf2e",
 				"type": "system",
-				"manifest": "https://github.com/foundryvtt/pf2e/releases/download/4.7.4/system.json",
+				"manifest": "https://github.com/foundryvtt/pf2e/releases/download/4.8.2/system.json",
 				"compatibility": {
-					"verified": "4.7.4"
+					"verified": "4.8.2"
 				}
 			}
 		]
 	},
-	"minimumSystemVersion": "3.10",
+	"minimumSystemVersion": "4.7",
 	"packs": [
 		{
-			"label": "The Counterspeller's Codex Vehicles",
+			"label": "The Counterspell Codex Hazards",
 			"type": "Actor",
-			"name": "vehicles",
-			"path": "./packs/vehicles.db",
+			"name": "hazard",
+			"path": "./packs/hazards.db",
 			"system": "pf2e"
 		},
 		{
-			"label": "The Counterspeller's Codex Feats",
+			"label": "The Counterspell Codex Feats",
 			"type": "Item",
 			"name": "feats",
-			"path": "./packs/feats.db",
+			"path": "./packs/feats-and-features.db",
 			"system": "pf2e"
 		},
 		{
-			"label": "The Counterspeller's Codex Items",
+			"label": "The Counterspell Codex Items",
 			"type": "Item",
 			"name": "items",
 			"path": "./packs/items.db",
 			"system": "pf2e"
 		},
 		{
-			"label": "The Counterspeller's Codex Actions",
+			"label": "The Counterspell Codex Actions",
 			"type": "Item",
 			"name": "actions",
 			"path": "./packs/actions.db",
 			"system": "pf2e"
 		},
 		{
-			"label": "The Counterspeller's Codex Tables",
-			"type": "JournalEntry",
-			"name": "tables",
-			"path": "./packs/tables.db",
+			"label": "The Counterspell Codex Spells",
+			"type": "Item",
+			"name": "spells",
+			"path": "./packs/spells.db",
 			"system": "pf2e"
 		}
 	],
-	"url": "https://github.com/hivefrog-studio/the-counterspeller-codex",
-	"manifest": "https://raw.githubusercontent.com/hivefrog-studio/the-counterspeller-codex/master/module.json",
-	"download": "https://github.com/hivefrog-studio/the-counterspeller-codex/archive/refs/heads/master.zip"
+	"url": "https://github.com/hivefrog-studio/the-counterspell-codex",
+	"manifest": "https://raw.githubusercontent.com/hivefrog-studio/the-counterspell-codex/master/module.json",
+	"download": "https://github.com/hivefrog-studio/the-counterspell-codex/archive/refs/heads/master.zip"
 }

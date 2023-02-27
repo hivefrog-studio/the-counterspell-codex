@@ -4,7 +4,7 @@ This module is an example for setting up a foundry module.  Each pack included h
 
 Once enabled, this module will add 5 compendiums:
 - Actions
-- Feats
+- Feats & Features
 - Items
-- Tables
-- Vehicles
+- Hazards
+- Spells
