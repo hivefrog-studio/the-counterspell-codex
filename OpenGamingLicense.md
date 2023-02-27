@@ -21,7 +21,7 @@ Pathfinder Advanced Player’s Guide © 2020, Paizo Inc.; Authors: Amirali Attar
 Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 Pathfinder Gamemastery Guide © 2020, Paizo Inc.; Authors: Alexander Augunas, Jesse Benner, John Bennett, Logan Bonner, Clinton J. Boomer, Jason Bulmahn, James Case, Paris Crenshaw, Jesse Decker, Robert N. Emerson, Eleanor Ferron, Jaym Gates, Matthew Goetz, T.H. Gulliver, Kev Hamilton, Sasha Laranoa Harving, BJ Hensley, Vanessa Hoskins, Brian R. James, Jason LeMaitre, Lyz Liddell, Luis Loza, Colm Lundberg, Ron Lundeen, Stephen Radney-MacFarland, Jessica Redekop, Alistair Rigg, Mark Seifter, Owen K.C. Stephens, Amber Stewart, Christina Stiles, Landon Winkler, and Linda Zayas-Palmer.
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
-Template Repo, © 2022 Hive Frog Studio; Authors: Patrick Baeringer, Tori Braley, Gabriel Grajewski, Tristin Hauptman, Aurora Lane, Lily Lauben, Justin Roszko
+The Counterspeller's Codex, © 2022 Hive Frog Studio; Authors: Patrick Baeringer, Tori Braley, Gabriel Grajewski, Tristin Hauptman, Aurora Lane, Lily Lauben, Justin Roszko
 
 This product is compliant with the Open Game License (OGL) and is suitable for use with the Pathfinder Roleplaying Game (Second Edition).
 
